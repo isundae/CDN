@@ -1,7 +1,7 @@
 # 图床设置记录
 
 ![tuchuang.png](http://img.isundae.cn/tuchuang.png)
-[![tuchuang.png](http://img.isundae.cn/tuchuang.png)](http://img.isundae.cn/tuchuang.png)
+[![](http://img.isundae.cn/tuchuang.png)](http://img.isundae.cn)
 
 ## 概念
 
