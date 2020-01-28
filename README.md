@@ -1,6 +1,6 @@
 # 图床设置记录
 
-![tuchuang.png](http://img.isundae.cn/tuchuang.png)
+![tuchuang.png](./tuchuang.png)
 
 ## 概念
 
@@ -120,4 +120,4 @@
    
    VSCode 设置插件
 
-   ![qiniu3.png](http://img.isundae.cn/qiniu3.png)
+   ![qiniu3.png](./qiniu3.png)
