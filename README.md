@@ -46,42 +46,42 @@
 ### GitHub图床
 ```json
 {
-  "repo": "", // 仓库名，格式是username/reponame
-  "token": "", // github token
-  "path": "", // 自定义存储路径，比如img/
-  "customUrl": "", // 自定义域名，注意要加http://或者https://
-  "branch": "" // 分支名，默认是master
+  "repo": "",           // 仓库名，格式是username/reponame
+  "token": "",          // github token
+  "path": "",           // 自定义存储路径，比如img/
+  "customUrl": "",      // 自定义域名，注意要加http://或者https://
+  "branch": ""          // 分支名，默认是master
 }
 ```
 1. 首先你得有一个GitHub账号。
 
 2. 新建一个仓库
-   ![new1.png](http://img.isundae.cn/new1.png)
+   ![new1.png](./new1.png)
    记下你取的仓库名。
-   ![new2.png](http://img.isundae.cn/new2.png)
+   ![new2.png](./new2.png)
    
 
 3. 生成一个token用于PicGo操作你的仓库：
 
    访问：https://github.com/settings/tokens
 
-   ![new3.png](http://img.isundae.cn/new3.png)
+   ![new3.png](./new3.png)
 
    然后点击`Generate new token`。
 
-   ![new4.png](http://img.isundae.cn/new4.png)
+   ![new4.png](./new4.png)
 
-   ![new5.png](http://img.isundae.cn/new5.png)
+   ![new5.png](./new5.png)
 
    把repo的勾打上即可。然后翻到页面最底部，点击Generate token的绿色按钮生成token。
 
 
 
-   ![new6.png](http://img.isundae.cn/new6.png)
+   ![new6.png](./new6.png)
 
     **注意：** 这个token生成后只会显示一次！你要把这个token复制一下存到其他地方以备以后要用。
 
-   ![new7.png](http://img.isundae.cn/new7.png)
+   ![new7.png](./new7.png)
 
 
 4. 配置PicGo   
@@ -98,25 +98,25 @@
 
 1. 打开VScode。
 2. 安装本插件
-   ![vs-picgo.png](http://img.isundae.cn/vs-picgo.png)
+   ![vs-picgo.png](./vs-picgo.png)
 3. 设置插件   
    
 ### github图床设置   
 
-   ![github-vs.png](http://img.isundae.cn/github-vs.png)
+   ![github-vs.png](./github-vs.png)
    
    设置jsDelivr加速
 
    **格式：https://cdn.jsdelivr.net/gh/用户名/图床仓库名**
 
-   ![jsdelivr.png](http://img.isundae.cn/jsdelivr.png)
+   ![jsdelivr.png](./jsdelivr.png)
 
-   ![github2.png](http://img.isundae.cn/github2.png)
+   ![github2.png](./github2.png)
 
 ### 七牛图床   
    
-   ![qiniu1.png](http://img.isundae.cn/qiniu1.png)
-   ![qiniu2.png](http://img.isundae.cn/qiniu2.png)
+   ![qiniu1.png](./qiniu1.png)
+   ![qiniu2.png](./qiniu2.png)
    
    VSCode 设置插件
 
